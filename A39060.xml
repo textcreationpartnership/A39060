@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Exhortation vnto the learned divines assembled at Westminster to set an order touching fayth and religion in the Church of England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39060</idno>
+            <idno type="STC">Wing E3869</idno>
+            <idno type="STC">ESTC R12574</idno>
+            <idno type="EEBO-CITATION">11913741</idno>
+            <idno type="OCLC">ocm 11913741</idno>
+            <idno type="VID">50863</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39060)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 50863)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 28:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Exhortation vnto the learned divines assembled at Westminster to set an order touching fayth and religion in the Church of England</title>
+               </titleStmt>
+               <extent>[2], 3-7 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the author, and are tobee [sic] sold by Iohn Crosse ...,</publisher>
+                  <pubPlace>In Amsterdam :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Faith.</term>
+               <term>Religion --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:50863:1" rendition="simple:additions"/>
+            <pb facs="tcp:50863:1"/>
+            <p>AN EXHORTATION Vnto the Learned Divines aſſembled AT WESTMINSTER To set an order touching Fayth and Religion in the Church of ENGLAND.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>In AMSTERDAM. Printed for the Author, and are to bee ſold by <hi>Iohn Croſſe</hi> Bookſeller in the Bagijne ſteegh neare the English Church, Anno Dom 1643</p>
+         </div>
+      </front>
+      <body>
+         <div type="exhortation">
+            <pb facs="tcp:50863:2"/>
+            <pb facs="tcp:50863:2" rendition="simple:additions"/>
+            <head>AN EXHORTATION Unto the Learned Divines aſſembled AT WESTMINSTER To ſet an order touching Fayth and Religion in the Church of ENGLAND.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Eloved Freinds and high learned Schoole men, on whom both high and low, both Rich and poore, doe depend, beleeving that (through your great learning) you can ſo judge of matters of Fayth and Religion, that all what you shall judge, ap<g ref="char:EOLhyphen"/>prove, and allow therein, muſt of neceſſity be holden for the truth, as alſo, all that you shall not judge, ap<g ref="char:EOLhyphen"/>prove, and allow, muſt not be holden for the truth.</p>
+            <p>Therfore I thought it good, and alſo my duty (beloved in the Lord) to put you in mynd, that in this your Synod, you follow not the order of the Church of Rome, as to ſet ſuch an order &amp; Rule in Fayth and Religion, that shall bynde and compell men, to beleeve your Articles of Fayth and Re<g ref="char:EOLhyphen"/>ligion, as alſo not to be your owne Iudges therein except for your owne Aſſembly but not for others) as if you can not Erre, and ſo forbid others, that agree not with you (touching your Articles of Fayth and Religion) to teach, pryut and publish theyr Fayth and Religion, on payne of Impri<g ref="char:EOLhyphen"/>sonment,
+<pb n="4" facs="tcp:50863:3"/>Baniſhment &amp;c as the Papiſts, Lutherans and other Sects doe, in forceing men to theyr Aſſemblyes againſt theyr conſciences.</p>
+            <p>But Iexhort you herein, to follow the Apoſtles Doctryne, and order (they as Maſter buylders) haue ſet downe, for a Pattern and Rule for every man to follow and practiſe: ſo that you, nor any whoſoever haue Autho<g ref="char:EOLhyphen"/>rity (though of high degree, or learned) to ſet downe an other order, Rule or Pattern of Fayth and Religion, for all men to follow and practiſe, ſeeing that is done already by Chriſt and his Apoſtles, which we all ought to follow and practiſe, but none other order on payne of the curſe. Gal 1.8.2. Tim. 1.13. Luk. 9.49. notwithſtanding, ſeeing there are many Aſſemblyes of Chris<g ref="char:EOLhyphen"/>tians, and each thinke (as you doe) theyr owne Fayth and Religion to be beſt, you may ſet orders therein for your ſelues. upon condition that you tolerate others, as you ought to doe, elſe you ſhall doe contrary to chriſts command. Math. 13.28.30. Mark. 9.38. Luk. 9.49. and ſo judge an other mans Servants, which you ought not to doe, as you mayread. Rom. 14:4:18. it is Chriſts office only, to judge in matters of Fayth &amp; Religion, vnto whom as to our only Iudge, we all doe ſtand or fall; there fore I exhort you, not to perſecute any, for theyr Fayth and Religion.</p>
+            <p>It may be you will ſay, ſhall wee then tolerate every Sect? I ſay yea, you ought to doe it, if you will obey Chriſt, and not diſpleaſe him, who forbid<g ref="char:EOLhyphen"/>deth you &amp; the Magiſtrate to pluck up the Tares, and commandeth you both, to let them grow till the harveſt, that is the end of the world. Matth. 13, 30. Here may you ſee that both the Magiſtrate &amp; you ought to obey Chriſt, who will not have you to forbid any that teach in his name, though they bee Tares and follow not you, Mar. 9.38. Luk. 9.50. If you will not haue any Sects (as I alſo would hinder them; if I might lawfuly doe ir) I will ſhew you a way, how to hynder them. without breaking Chriſts commands: the beſt way is (under correction) that you ſet downe a Rule, how all men may certainly know, a Sect from the true Church &amp; the true Church from a Sect which being done (as it can well be done) all men that truely loue theyr Salva<g ref="char:EOLhyphen"/>tion, will Seperate from the Sects, and Ioyne them ſelves to the true Church: for then all men that will, may ſearch the Scriptures, and ſo eaſily know the true Church from the Sects.</p>
+            <p>For the better knowledge herein, all parents ought to bring vp thyer Children, to Read perfectly in the Bible, ſo that they may (as Chriſt exhort<g ref="char:EOLunhyphen"/>eth) ſeareh the ſcripture for the begetting &amp; ſettling of theyr Fayth: If any parents through poverty, are not able ſo to bring vp theyr Children, let free Schooles bee provided, in every Towne &amp; village for that purpoſe, with
+<pb n="5" facs="tcp:50863:3"/>godly teachers therein this order being taken &amp; ordayned, the Sects will ſoone be hindred, if not, yet Sects muſt be tolerated, ſeeing thereby, thoſe Aſſemblyes which are conformable, to the Pattern of Gods word, will bee the better knowne and approved, as you may read. 2. Cor. 11.19.</p>
+            <p>Alſo you ſhall pleaſe to underſtand, if you will ordayne ſuch an order, as Chriſt hath ordayned, touching the adminiſtration of his Baptiſme, and his Supper, as alſo touching the doctryns of God, his ſon &amp; holy ghoſt, as Chriſt, his Prophets &amp; Apoſtles haue taught, then no Godly perſons, ſhall haue juſt cauſe to except againſt it, and ſo wee ſhall bee of one heart &amp; of one mynd therein: But if you ſhall ordayne, ſuch an Erroneous &amp; Tyrra<g ref="char:EOLhyphen"/>nical order of doctrine &amp; diſcipline, as the fathers of the Church of Rome, haue taught &amp; ordayned then all godly men ſhall hane juſt cauſe to except againſt it, ſeeing wee ought not to follow them, but Chriſt, his Prophets &amp; Apoſtles, in the doctrines of Fayth &amp; Religion: which if you pleaſe todoe, as you ought, then ſhall we not be divided into ſo many Sects as now we are: nor then ſhall the doctryns of Chriſt, his Prophets &amp; Apoſtles bee borne downe &amp; ſuppreſſed, by the Authority, &amp; ſword of the Magiſtrate as now it is. Therfore I exhort you, onely to uſe the ſword of the ſpirit which is the vvord of god for the ſuppreſſing of Sects; but not the Magiſtrates ſword, except againſt ſuch as uſe that ſword (as the Papiſts now doe) agaynſt you, as you haue done againſt us, for which God is ſo diſpleaſed, that he will not releaſe you, till you eſtablish Chriſts Iubile and freedom of conſcience: Luk. 4.18.</p>
+            <p>I pray considet if the bloud of thoſe men, you name Anabaptiſts, and Browniſts, and others, which your Church haue bnrned, banſhed &amp; hanged, doe not crye to God for vengeame agaynſt you: ſeeing they ſuffred for Righteouſnes ſake, being faithful to God, in that they beleived: therefore Chriſt ſayth Math. 5.10. bleſſed are they that ſuffer perſecution, for Righ<g ref="char:EOLhyphen"/>teouſnes ſake, and ſayth, the Kingdome of Heaven is theirs: and though they erred in ſome things (yet ſeeing it was of ignorance, and not of obſtinacy) that, made them not vnrighteous, nor worthy of death: you Know the Apoſtle ſayth, Rom: 14.14. though he was perſwaded, that nothing is vn<g ref="char:EOLhyphen"/>clean in it ſelf, yet to him that ſo judgeth, to him it is unclean: ſo if a man judge ſome doctrynes to be Error, though it be no Error, yet to him that ſo judgeth, tis error: if he ſuffer death for that he judgeth to be truth, hee ſuffreth for Righteouſnes ſake, being truth in his judgement: therefore judge you not according to the outward appearance, but judge Righteous judge<g ref="char:EOLhyphen"/>ment as Chriſt exhorteth you for whoſoever in thee things ſerve chriſt, is ac<g ref="char:EOLhyphen"/>ceptable
+<pb n="6" facs="tcp:50863:4" rendition="simple:additions"/>to God, and is approved of Godly men, as the Apoſtle teacheth. Rom. 14.18.</p>
+            <p>Further, I exhort you, not to ſtudye the Romish fathers any longer, but the holy ſcriptures of the Prophets &amp; Apoſtles only, nor yet to proue your doctrines from Romiſh fathers, but from Chriſt, his Prophets &amp; Apoſtles, whoſe doctrines only eſtabliſh the Conſcience, being truly tranſlated &amp; ex<g ref="char:EOLunhyphen"/>pounded, which may wel be knowne, if it make no contradiction, for they teach not contrary one another; but the Romiſh fathers teach not only con<g ref="char:EOLhyphen"/>trary Chriſt, his Prophets &amp; Apoſtles, but alſo contrary one another; and all of them are found very ignorant in the knowledge of Gods word, and in the expoſition therof: So that you ſhal doe wel, to ordayne that no Teacher alledge any fathers, but Gods word only for proof of theyr doctrines; which being done, there wilbe great hope to diminiſh the Sects, and to eſtabliſh a true Church in vnity of Fayth &amp; Religion: Alſo I exhort you not to condemne your ſelves, towards others, in the ſame things you allow in yourſelves: namely; you will not that the Papiſts be judges over you, in theyr owne cauſes, ſo you ought not to be judges over others in your owne cau<g ref="char:EOLhyphen"/>ſes; for wherin you judge &amp; condemne others, and your ſelves doe the ſame things, therein you ſhall judge &amp; condemne your ſelves, as the Apoſtle teacheth. Rom. 2.1. Alſo ſeeing you (like the Jewes) haue more zeal then knowledge, touching the Keeping of the weekely Sabbath, I deſire you better to conſider of the Apoſtles doctryne therein Rom. 14.4.5. ſhal you not force men, to obſerve that Shaddow, more then the other ſhaddowing Sabbath? ſeeing the weekely Sabbath was a Shaddow, ſo wel as the yearly Sabbaths, and now all aboliſhed by Chriſts comming: ther<g ref="char:EOLhyphen"/>fore condemne no man therein, nevertheleſſe; will you eſteem one day aboue another, yet you ought not to condemne others that eſteeme every day alike for then ſhall you doe contrary to the doctryne of the Apoſtle, Col. 2.16.17. let no man oppreſſe, or defraude his brother in any matter, For the Lord is an aveuger, all of ſuch things. 1 Theſſ, 4.6.</p>
+            <p>Alſo I deſyre good order may be taken for the maintenance of the poore that ſo no men, women nor children, be forced &amp; dryven (through want) to beg from doore to doore; verely the lord loveth the poore now ſowel as he did afore tyme, when he ordayned alaw for theyr mayntenance as you may read in Deutr. 14.28. ſaying, at the end of the yeare, thou ſhalt bring forth all the tithes of thine increase the ſame yeare, and lay it vp within thy gates, then the Levite ſhal come becauſe he hath no inheritance with thee) and the ſtranger, the fatherleſſe, and the widdows (that are poore) within thy gates,
+<pb n="7" facs="tcp:50863:4"/>and ſhall eat and be filled, that the lord thy God, may bleſſe thee in all the work of thine hands which thou doeſt: Levit. 19, 10. &amp; 23.22. &amp; Deut. 15.9.11.</p>
+            <p>I beſeech you, zealouſly to conſider, if this Morall law of God be now aboliſhed through Chriſts comming, if not, let it I pray you be zealouſly practiſed: for as the mayntenance of the Teachers and poore was then, even ſo is the mayntenance of the Teachersand Poore now: Thus hopeing a Re<g ref="char:EOLhyphen"/>formation (of all Romiſh doctrines, Ceremonyes, and Tyrannical diſcipline) according to the pattern of Gods holy word: I commend you to the God of Peace, who make you perfect in all good works, to doe his will, working in you, that which is pleaſing in his ſight, through Ieſus Chriſt, Amen.</p>
+            <p>I beſeech you to ſuffer the words of exhortation, for I have written to you in few words and in loue, though not in the enticing ſpeech of mans wiſdome, yet in plaine evidence of the power &amp; ſpirit of Chriſt. 1. Cor. 2.4.7.10. you ſhal pleaſe to read. Mat. 7.22. They that loue inſtruction, ſhal increaſe in knowledge, but they that hate it, ſhal remayne in Error and ignorance. Proverb. 12.1. Eſay. 2.3. &amp; Micah. 4.2. As you would that men ſhould doe to you, ſo doe you to them likewiſe. Mat. 7.12. Luk. 6.31. otherwyſe Chriſt will pronounce you unrighteous. Written in Syon (not Babylon) the 23. of the 8 moneth called October. by Mark Leonard Buſher, in the 72 yeare of his Age a Citizen of the Famous and Honourable City London: though aboue 36 yeares, a Pilgrim in Holland, for the word of God and Teſtimony of Ieſus Chriſt. Reve 12.17. Anno Dom. 1643. Ro. ſtyle Anno Dom: Syons ſtyle. 1659.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
